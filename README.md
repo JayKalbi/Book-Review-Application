@@ -1,7 +1,9 @@
 # Book-Review-Server-Side-Application
 ### Course Information
 Title: Developing Back-End Apps with Node.js and Express
+
 Type: Final Project
+
 Course Provider: IBM
 
 ### Technologies Used
